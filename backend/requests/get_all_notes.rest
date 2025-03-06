@@ -1,0 +1,5 @@
+POST http://localhost:3001/api/notes
+{
+    "content":"Postman is good in testing backend",
+    "important":true
+}
